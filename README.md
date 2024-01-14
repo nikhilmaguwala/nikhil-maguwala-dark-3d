@@ -1,6 +1,13 @@
 # A Nikhil Maguwala 3D Portfolio
 
 <div align="center">
+
+<br />
+    <a href="https://nikhil-maguwala-dark-3d.netlify.app/" target="_blank">
+      <img src="https://raw.githubusercontent.com/nikhilmaguwala-fau/nikhil-maguwala-dark-3d/main/src/assets/photo.png" alt="Project Banner">
+    </a>
+  <br />
+
   <div>
     <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
     <img src="https://img.shields.io/badge/-Three_JS-black?style=for-the-badge&logoColor=white&logo=threedotjs&color=000000" alt="three.js" />
